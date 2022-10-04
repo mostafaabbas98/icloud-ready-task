@@ -1,0 +1,14 @@
+.home {
+  height: 100vh;
+  position: relative;
+}
+
+.shape {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40px;
+  height: 100px;
+  z-index: 1;
+  background: #0097c2;
+}
